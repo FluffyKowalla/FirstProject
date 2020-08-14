@@ -1,0 +1,27 @@
+body {
+    background-color: tan;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+    text-align: center;
+}
+
+.table1 {
+    text-align: center;
+    border: 2px solid tomato ;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 75px;
+}
+
+tr {
+    background-color: rgb(158, 57, 57);
+    text-align: center;
+}
+
+
